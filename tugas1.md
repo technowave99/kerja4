@@ -1,3 +1,5 @@
+```mermaid
+
 
 graph TD
     A["🎯 SATU DATA INDONESIA (SDI)"] --> B1["🔹 Prinsip Data"]
@@ -39,3 +41,5 @@ graph TD
     style A fill:#2b6cb0,stroke:#fff,color:#fff
     style F fill:#38a169,stroke:#fff,color:#fff
     style H fill:#f6ad55,stroke:#fff,color:#000
+
+```
