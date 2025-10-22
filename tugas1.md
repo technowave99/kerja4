@@ -1,4 +1,4 @@
-test tugas
+
 graph TD
     A["🎯 SATU DATA INDONESIA (SDI)"] --> B1["🔹 Prinsip Data"]
     A --> B2["🔹 Komponen Utama"]
