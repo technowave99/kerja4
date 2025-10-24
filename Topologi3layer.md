@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
   %% ===== CORE =====
   subgraph CORE["Core Layer"]
@@ -107,3 +108,4 @@ flowchart TB
   DS1 --- S5
   DS1 --- SAN
   DS2 --- SAN
+```
