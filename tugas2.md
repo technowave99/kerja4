@@ -1,3 +1,4 @@
+```mermaid
 
 flowchart TB
   %% ================= CORE =================
@@ -138,3 +139,5 @@ flowchart TB
   note over DG1,DF2: Inter-VLAN via CORE firewalled policies\n- R&D (VLAN20) isolated from Sales/Admin (VLAN10)\n- Both can reach Servers (VLAN40) per ACLs\n- VoIP (VLAN30) prioritized (EF), jitter < 20ms
   note right of WLC: SSIDs mapped to VLAN10/VLAN20/VLAN30\nWi-Fi 6 coverage: ~15 AP total (1 per 20 users)
   note right of FW: Dual-WAN failover/load-balance\nEdge filtering + NAT + QoS
+
+```
